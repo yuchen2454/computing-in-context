@@ -1,4 +1,4 @@
-# Welcome Page 
+# Homepage 
 
 This website will display my 3 projects. <br>
   1. [**Porject 1**](https://project-try.readthedocs.io/en/latest/project_1.html)
